@@ -1,7 +1,8 @@
 {
-  "name": "now-ui-kit-react",
+  "name": "Jimmy's Portfolio App",
   "version": "1.0.0",
   "private": true,
+  "homepage": "http://JimmyErickson.github.io/JimmyErickson.github.io",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "moment": "2.24.0",

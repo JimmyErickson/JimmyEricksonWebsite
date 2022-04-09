@@ -5,7 +5,7 @@
   "homepage": "http://JimmyErickson.github.io/JimmyErickson.github.io",
   "dependencies": {
     "gh-pages": "^2.2.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "node-pre-gyp": "^0.14.0",
     "node-sass": "^4.13.1",
     "nouislider": "14.0.2",
